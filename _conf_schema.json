@@ -1,0 +1,16 @@
+{
+    "keep_images": {
+        "description": "永久保存模式",
+        "type": "bool",
+        "default": true,
+        "hint": "开启后图片将永久保存在WZL_NachonekoPlus目录中",
+        "obvious_hint": true
+    },
+    "storage_path": {
+        "description": "存储根路径",
+        "type": "string",
+        "default": "data/WZL_NachonekoPlus",
+        "path_type": "directory",
+        "hint": "实际存储路径为 [本配置项]/WZL_NachonekoPlus"
+    }
+}
