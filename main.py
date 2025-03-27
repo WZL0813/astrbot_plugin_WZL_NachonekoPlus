@@ -137,7 +137,7 @@ class ImageDownloader:
                 
         return success_count, failed_count
 
-@register("astrbot_plugin_WZL_NachonekoPlus", "WZL", "astrbot_plugin_WZL_NachonekoPlus 获取甘城猫猫图片。", "1.0.2", "https://github.com/WZL0813/astrbot_plugin_WZL_NachonekoPlus")
+
 class MyPlugin(Star):
     def __init__(self, context: Context):
         super().__init__(context)
