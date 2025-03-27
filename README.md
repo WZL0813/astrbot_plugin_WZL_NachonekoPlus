@@ -1,4 +1,5 @@
 # astrbot_plugin_WZL_NachonekoPlus
+注意！！！直接从GitHub获取链接会出错，请转到 发布（https://github.com/WZL0813/astrbot_plugin_WZL_NachonekoPlus/releases） ，下载zip压缩包手动上传。
 一款获取甘城猫猫图片的插件
 # 功能
 获取甘城なつき的角色相关图片，包含甘城原画和二创
